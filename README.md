@@ -5,6 +5,10 @@
 
 This project sets up a cloud-based Honeypot Security Operations Center (SOC) Lab using Microsoft Azure. It simulates a vulnerable environment to attract and log attacker activity in real-time. The logs are ingested and analyzed in Microsoft Sentinel, enriched with geolocation data, and visualized through a dynamic attack map.
 
+Architecture:
+
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/78d3f8fa-573c-4f3f-8439-9ebf0c119042" />
+
 ---
 
 ## Objectives
