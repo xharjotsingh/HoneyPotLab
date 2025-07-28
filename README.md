@@ -35,7 +35,7 @@ By the end of this project, you will:
 ├── docs/
 │   ├── screenshots/
 │   │   ├── Audit-FailureLogDescription
-│   │   ├── CollectiionRule-Config
+│   │   ├── CollectionRule-Config
 │   │   ├── Intentional-FailedLoginAttempts
 │   │   └── VirtualNetwork-Config
 │   ├── Virtual-Machine-Template/
@@ -55,6 +55,7 @@ By the end of this project, you will:
 └── README.md
 ```
 Final Attack Map:
+
 <img width="973" height="537" alt="Screenshot 2025-07-27 223955" src="https://github.com/user-attachments/assets/a9b5ae1f-df27-4a0c-ab79-00c0cf6cf63c" />
 
 ---
